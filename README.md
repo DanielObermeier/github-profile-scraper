@@ -3,7 +3,7 @@ This scraper checks whether github contributors are working at a company as indi
 
 
 ## Purpose and choice of design
-I developed this scraper to automate tedious manual look-up and thus to speed up the scientific inquiry of research based on github data. 
+I developed this scraper to automate tedious manual look-up work, and thus to speed up the scientific inquiry of research based on github data. 
 
 The purpose of this scraper is to check whether github contributors work at the company that owns the repo to which the contributor contributes. This check is necessary as many contributors use their private github profiles even if they work for a company. 
 Assuming that these contributors are contributing to the repo as part of an external community would bias our understanding of contribution patterns. As research on github contribution data becomes more popular understanding the data quality on github becomes more and more important. 
