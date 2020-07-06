@@ -26,3 +26,6 @@ Please find a more detailed description of both programs in the respective Jupyt
 This scraper is published under a MIT license. 
 
 
+### Disclaimer
+THis scrpaer only accesses data that is publicly availalbe on github, startpage and can be reached by using a common webbrowser. 
+
